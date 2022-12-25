@@ -8,7 +8,7 @@
 
 - Java
 - XML
-- Flask
+- Flask (Python)
 - Firebase
 - Google Maps API
 - Google Messages API
