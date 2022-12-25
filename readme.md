@@ -1,4 +1,4 @@
-# COVID-19 Health Monitoring Application
+# COVID-19 Risk Prediction and Contact Tracing
 
 - The emergence of the coronavirus COVID- 19 switched the limelight onto digital health technologies. To help the infection rates from surging, numerous governments are looking into applications that could help disrupt infection chains beforehand. We created a Self- Assessment Test using COVID Symptoms, that's capable of assessing the threat of COVID- 19 in the user using ML. The data also tracks the user and gives safety tips and recommendations. Using the Track Module, the user is notified of the nearby containment zones. The contact tracing module helps the user to maintain a specified distance from others.
 
